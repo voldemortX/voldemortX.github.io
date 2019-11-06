@@ -10,3 +10,5 @@
 |2019.11 - present | Digital Media & Computer Vision Laboratory ***AT Shanghai Jiao Tong University*** |
 
 My research interests include many fields related to computer vision and machine learning, currently I'm focusing on semantic image segmentation, especially in a semi-supervised or weakly-supervised setting.
+
+As for my personal life, I'm an excellent GO player(5 dan) and a seansoned video editor.
