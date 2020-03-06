@@ -10,4 +10,4 @@
 
 My research interests include many fields related to computer vision and machine learning, currently I'm focusing on semantic image segmentation, especially in a semi-supervised or weakly-supervised setting.
 
-As for my personal life, I'm an excellent GO player(5 dan) and a seasoned video editor([my studio](http://www.xianstudio.cn)).
+As for my personal life, I'm a GO player(5 dan) and a video creator([my studio](http://www.xianstudio.cn)).
