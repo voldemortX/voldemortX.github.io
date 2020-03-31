@@ -1,7 +1,7 @@
 |**Education:** | |
 | :-------------  | :------------- |
 |2013.9 - 2016.6 | Qingdao No.2 High School |
-|2016.9 - 2020.6(*to be expected*) | Harbin Institute of Technology, Weihai(*BSc*) |
+|2016.9 - 2020.6 (*to be expected*) | Harbin Institute of Technology, Weihai (*BSc*) |
 
 | **Work:** | |
 | :-------------  | :------------- |
