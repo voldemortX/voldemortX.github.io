@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Zhengyang Feng (冯正阳)
+plugins:
+  - jekyll-sitemap
