@@ -2,6 +2,7 @@
 | :-------------  | :------------- |
 |2013.9 - 2016.6 | Qingdao No.2 High School |
 |2016.9 - 2020.6 | Harbin Institute of Technology, Weihai (*BEng in information security*) |
+|2020.9 - | Shanghai Jiao Tong University |
 
 | **Work:** | |
 | :-------------  | :------------- |
