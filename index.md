@@ -11,4 +11,4 @@
 
 My research interests lie in related fields of computer vision and machine learning. Currently I'm focusing on deep learning applications in vision problems with limited human interventions (semi-supervised, few-shot, unsupervised, etc.), especially for autonomous driving applications, e.g. semantic segmentation. See full listing of my publications at [Google Scholar](https://scholar.google.com/citations?user=WFoZVjEAAAAJ).
 
-As for my personal life, I'm a once renowned GO player (5 dan) and a skilled video creator ([my studio](http://www.xianstudio.cn)). I also sincerely appreciate good stories, no matter told in books, films, TV series, or any other story telling methods.
+As for my personal life, I'm a once renowned Go player (5 dan) and a video creator ([my studio](http://www.xianstudio.cn)). I also sincerely appreciate good stories, no matter told in books, films, TV series, or any other story telling methods.
