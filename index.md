@@ -5,11 +5,10 @@ As for my personal life, I'm a once renowned Go player (5 dan) and a video creat
 **Education:**
 - *2013.9 - 2016.6*: Qingdao No.2 High School
 - *2016.9 - 2020.6*: Harbin Institute of Technology, Weihai (*BEng in information security*)
-- *2020.9 - now*: Shanghai Jiao Tong University (*MSc in computer science*)
+- *2020.9 - now*: Shanghai Jiao Tong University ***[DMCV Lab](http://dmcv.sjtu.edu.cn/)*** (*MSc in computer science*)
 
 **Work:**
-- *2017.10 - 2019.10*: ***Network and Information Security Research Center (NIST)*** at Harbin Institute of Technology, Weihai
-- *2019.11 - now*: ***Digital Media & Computer Vision Laboratory ([DMCV](http://dmcv.sjtu.edu.cn/))*** at Shanghai Jiao Tong University
+- *2021.7 - now*: Shanghai AI Lab (*Research intern*) & SenseTime (*Part-time intern*)
 
 **Open-Source Contributions:**
 - Author of [voldemortX/pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive), [voldemortX/DST-CBC](https://github.com/voldemortX/DST-CBC).
