@@ -10,20 +10,26 @@ As for my personal life, I'm a once renowned Go player (5 dan) and a video creat
 ## Work:
 - *2021.7 - now*: Shanghai AI Lab (*Research intern*) & SenseTime (*Part-time intern*)
 
-## Publications:
-**Label-Free Regional Consistency for Image-to-Image Translation**, *ICME 2021*
+## Selected Publications:
+**DMT: Dynamic Mutual Training for Semi-Supervised Learning** *ArXiv preprint 2020*
 
-Shaohua Guo, Qianyu Zhou, Ye Zhou, Qiqi Gu, Junshu Tang, *Zhengyang Feng*, Lizhuang Ma
+***Zhengyang Feng***, Qianyu Zhou, Qiqi Gu, Xin Tan, Guangliang Cheng, Xuequan Lu, Jianping Shi, Lizhuang Ma
 
-**Semi-supervised 3D Object Detection via Adaptive Pseudo-Labeling**, *ICIP 2021*
+[\[paper\]](https://arxiv.org/pdf/2004.08514.pdf) [\[code\]](https://github.com/voldemortX/DST-CBC)
 
-Hongyi Xu, Fengqi Liu, Qianyu Zhou, Jinkun Hao, Zhijie Cao, *Zhengyang Feng*, Lizhuang Ma
+**Label-Free Regional Consistency for Image-to-Image Translation** *ICME 2021*
+
+Shaohua Guo, Qianyu Zhou, Ye Zhou, Qiqi Gu, Junshu Tang, ***Zhengyang Feng***, Lizhuang Ma
+
+**Semi-supervised 3D Object Detection via Adaptive Pseudo-Labeling** *ICIP 2021*
+
+Hongyi Xu, Fengqi Liu, Qianyu Zhou, Jinkun Hao, Zhijie Cao, ***Zhengyang Feng***, Lizhuang Ma
 
 [\[paper\]](https://arxiv.org/pdf/2108.06649.pdf)
 
-**Pit: Position-invariant transform for cross-fov domain adaptation**, *ICCV 2021*
+**PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation** *ICCV 2021*
 
-Qiqi Gu, Qianyu Zhou, Minghao Xu, *Zhengyang Feng*, Guangliang Cheng, Xuequan Lu, Jianping Shi, Lizhuang Ma
+Qiqi Gu, Qianyu Zhou, Minghao Xu, ***Zhengyang Feng***, Guangliang Cheng, Xuequan Lu, Jianping Shi, Lizhuang Ma
 
 [\[paper\]](https://arxiv.org/pdf/2108.07142.pdf) [\[code\]](https://github.com/sheepooo/PIT-Position-Invariant-Transform)
 
