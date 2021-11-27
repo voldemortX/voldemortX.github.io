@@ -41,5 +41,5 @@ Qiqi Gu, Qianyu Zhou, Minghao Xu, ***Zhengyang Feng***, Guangliang Cheng, Xuequa
 - Author of [voldemortX/pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive), [voldemortX/DST-CBC](https://github.com/voldemortX/DST-CBC).
 - Contributed code to [pytorch/vision](https://github.com/pytorch/vision).
 
-## Academic services
+## Academic Services
 - Reviewer for *TMM*, *TVC*, etc.
