@@ -38,7 +38,8 @@ Qiqi Gu, Qianyu Zhou, Minghao Xu, ***Zhengyang Feng***, Guangliang Cheng, Xuequa
 *See full listing of my publications & preprints at [Google Scholar](https://scholar.google.com/citations?user=WFoZVjEAAAAJ).*
 
 ## Open-Source Contributions
-- Author of [voldemortX/pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive), [voldemortX/DST-CBC](https://github.com/voldemortX/DST-CBC).
+- Author of [PytorchAutoDrive](https://github.com/voldemortX/pytorch-auto-drive), a unified platform for self-driving perception tasks.
+- Author of Python package [importmagician](https://pypi.org/project/importmagician).
 - Contributed code to [pytorch/vision](https://github.com/pytorch/vision).
 
 ## Academic Services
