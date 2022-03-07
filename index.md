@@ -11,6 +11,12 @@ As for my personal life, I'm a once renowned Go player (5 dan) and a video creat
 - *2021.7 - now*: Shanghai AI Lab (*Research intern*) & SenseTime (*Part-time intern*)
 
 ## Selected Publications
+**Rethinking Efficient Lane Detection via Curve Modeling** *CVPR 2022*
+
+***Zhengyang Feng***, Shaohua Guo, Xin Tan, Ke Xu, Min Wang, Lizhuang Ma
+
+[\[pdf\]](https://arxiv.org/pdf/2203.02431.pdf) [\[code\]](https://github.com/voldemortX/pytorch-auto-drive)
+
 **DMT: Dynamic Mutual Training for Semi-Supervised Learning** *ArXiv preprint 2020*
 
 ***Zhengyang Feng***, Qianyu Zhou, Qiqi Gu, Xin Tan, Guangliang Cheng, Xuequan Lu, Jianping Shi, Lizhuang Ma
@@ -43,4 +49,4 @@ Qiqi Gu, Qianyu Zhou, Minghao Xu, ***Zhengyang Feng***, Guangliang Cheng, Xuequa
 - Contributed code to [pytorch/vision](https://github.com/pytorch/vision).
 
 ## Academic Services
-- Reviewer for *TMM*, *TVC*, etc.
+- Reviewer for *TMM*, *TVC*, *Neurocomputing*, *ICME*, etc.
