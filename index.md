@@ -17,7 +17,7 @@ As for my personal life, I'm a once renowned Go player (5 dan) and a video creat
 
 [\[pdf\]](https://arxiv.org/pdf/2203.02431.pdf) [\[code\]](https://github.com/voldemortX/pytorch-auto-drive)
 
-**DMT: Dynamic Mutual Training for Semi-Supervised Learning** *ArXiv preprint 2020*
+**DMT: Dynamic Mutual Training for Semi-Supervised Learning** *Pattern Recognition 2022*
 
 ***Zhengyang Feng***, Qianyu Zhou, Qiqi Gu, Xin Tan, Guangliang Cheng, Xuequan Lu, Jianping Shi, Lizhuang Ma
 
