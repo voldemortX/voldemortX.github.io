@@ -1,3 +1,5 @@
+**I'm looking for jobs! [\[CV\]](https://github.com/voldemortX/voldemortX.github.io/files/9036964/_20220704.pdf) [\[简历\]](https://github.com/voldemortX/voldemortX.github.io/files/9036964/_20220704.pdf)**
+
 I'm now a master student in computer science at Shanghai Jiao Tong University. My research interests lie in related fields of computer vision and machine learning. Currently I'm focusing on deep learning applications in self-driving perception (semantic segmentation, lane detection, etc.), and how to deal with limited human interventions (semi-supervised, unsupervised, etc.). Other than researching, I am working to provide an open-source framework on self-driving perception, for the community.
 
 As for my personal life, I'm a once renowned Go player (5 dan) and a video creator ([my studio](http://www.xianstudio.cn)). I also sincerely appreciate good stories, no matter told in books, films, TV series, or any other story telling methods.
@@ -8,7 +10,7 @@ As for my personal life, I'm a once renowned Go player (5 dan) and a video creat
 - *2020.9 - 2023.3 (expected)*: Shanghai Jiao Tong University ***[DMCV Lab](http://dmcv.sjtu.edu.cn/)*** (*MSc in computer science*)
 
 ## Work
-- *2021.7 - now*: Shanghai AI Lab (*Research intern*) & SenseTime (*Part-time intern*)
+- *2021.6 - now*: Shanghai AI Lab (*Research intern*) & SenseTime (*Part-time intern*)
 
 ## Selected Publications
 **Rethinking Efficient Lane Detection via Curve Modeling** *CVPR 2022*
@@ -34,7 +36,10 @@ Qiqi Gu, Qianyu Zhou, Minghao Xu, ***Zhengyang Feng***, Guangliang Cheng, Xuequa
 ## Open-Source Contributions
 - Author of [PytorchAutoDrive](https://github.com/voldemortX/pytorch-auto-drive), a unified platform for self-driving perception tasks.
 - Author of Python package [importmagician](https://pypi.org/project/importmagician).
-- Contributed code to [pytorch/vision](https://github.com/pytorch/vision).
+- Contributed code to [pytorch/vision](https://github.com/pytorch/vision), [OpenPerceptionX/OpenLane](https://github.com/OpenPerceptionX/OpenLane), [karstenBehrendt/unsupervised_llamas](https://github.com/karstenBehrendt/unsupervised_llamas).
 
 ## Academic Services
-- Reviewer for *TMM*, *TVC*, *Neurocomputing*, *ICME*, etc.
+- Reviewer for *TMM*, *TVC*, *Neurocomputing*, *ICME*, *ICONIP*, etc.
+
+## Awards
+- 2nd place at 7th BMTT MOTChallenge (MOTSynth-MOT-CVPR22) 
