@@ -1,4 +1,4 @@
-**I'm looking for jobs! [\[CV\]](https://github.com/voldemortX/voldemortX.github.io/files/9037070/resume_chinese.pdf) [\[简历\]](https://github.com/voldemortX/voldemortX.github.io/files/9037070/resume_chinese.pdf)**
+**I'm looking for jobs! [\[CV\]](https://github.com/voldemortX/voldemortX.github.io/files/9670479/resume_chinese_20220929.pdf) [\[简历\]](https://github.com/voldemortX/voldemortX.github.io/files/9670479/resume_chinese_20220929.pdf)**
 
 I'm now a master student in computer science at Shanghai Jiao Tong University. My research interests lie in related fields of computer vision and machine learning. Currently I'm focusing on deep learning applications in self-driving perception (semantic segmentation, lane detection, etc.), and how to deal with limited human interventions (semi-supervised, unsupervised, etc.). Other than researching, I am working to provide an open-source framework on self-driving perception, for the community.
 
