@@ -1,5 +1,3 @@
-**I'm looking for jobs! [\[CV\]](https://github.com/voldemortX/voldemortX.github.io/files/9670479/resume_chinese_20220929.pdf) [\[简历\]](https://github.com/voldemortX/voldemortX.github.io/files/9670479/resume_chinese_20220929.pdf)**
-
 I'm now a master student in computer science at Shanghai Jiao Tong University. My research interests lie in related fields of computer vision and machine learning. Currently I'm focusing on deep learning applications in self-driving perception (semantic segmentation, lane detection, etc.), and how to deal with limited human interventions (semi-supervised, unsupervised, etc.). Other than researching, I am working to provide an open-source framework on self-driving perception, for the community.
 
 As for my personal life, I'm a once renowned Go player (5 dan) and a video creator ([my studio](http://www.xianstudio.cn)). I also sincerely appreciate good stories, no matter told in books, films, TV series, or any other story telling methods.
@@ -10,7 +8,7 @@ As for my personal life, I'm a once renowned Go player (5 dan) and a video creat
 - *2020.9 - 2023.3 (expected)*: Shanghai Jiao Tong University ***[DMCV Lab](http://dmcv.sjtu.edu.cn/)*** (*MSc in computer science*)
 
 ## Work
-- *2021.6 - now*: Shanghai AI Lab (*Research intern*) & SenseTime (*Part-time intern*)
+- *2021.6 - 2022.12*: Shanghai AI Lab & SenseTime (*Intern*)
 
 ## Selected Publications
 **Rethinking Efficient Lane Detection via Curve Modeling** *CVPR 2022*
