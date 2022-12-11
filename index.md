@@ -8,7 +8,7 @@ As for my personal life, I'm a once renowned Go player (5 dan) and a video creat
 - *2020.9 - 2023.3 (expected)*: Shanghai Jiao Tong University ***[DMCV Lab](http://dmcv.sjtu.edu.cn/)*** (*MSc in computer science*)
 
 ## Work
-- *2021.6 - 2022.12*: Shanghai AI Lab & SenseTime (*Intern*)
+- *2021.6 - 2022.12*: Intern at Shanghai AI Lab & SenseTime
 
 ## Selected Publications
 **Rethinking Efficient Lane Detection via Curve Modeling** *CVPR 2022*
