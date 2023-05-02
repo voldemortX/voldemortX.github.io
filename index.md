@@ -1,14 +1,15 @@
-I'm now a master student in computer science at Shanghai Jiao Tong University, supervised by [Prof. Lizhuang Ma](https://dmcv.sjtu.edu.cn/). My research interests lie in related fields of computer vision and machine learning. Currently I'm focusing on deep learning applications in self-driving perception (semantic segmentation, lane detection, etc.), and how to deal with limited human interventions (semi-supervised, unsupervised, etc.). Other than researching, I am working to provide an open-source framework on self-driving perception, for the community.
+I now work as an engineer at [Momenta](https://www.momenta.cn/), with the parking perception team. Before that, I got my master degree in computer science at Shanghai Jiao Tong University, supervised by [Prof. Lizhuang Ma](https://dmcv.sjtu.edu.cn/), worked on monocular lane detection, segmentation, and explored learning with limited human supervision. Currently, I'm focusing on deep learning applications in self-driving perception, and how to bring these technologies into real world ADAS solutions.
 
 As for my personal life, I'm a once renowned Go player (5 dan) and a video creator ([my studio](http://www.xianstudio.cn)). I also sincerely appreciate good stories, no matter told in books, films, TV series, or any other story telling methods.
 
 ## Education
 - *2013.9 - 2016.6*: Qingdao No.2 High School
 - *2016.9 - 2020.6*: Harbin Institute of Technology, Weihai (*BEng in information security*)
-- *2020.9 - 2023.3 (expected)*: Shanghai Jiao Tong University ***[DMCV Lab](http://dmcv.sjtu.edu.cn/)*** (*MSc in computer science*)
+- *2020.9 - 2023.3*: Shanghai Jiao Tong University ***[DMCV Lab](http://dmcv.sjtu.edu.cn/)*** (*MSc in computer science*)
 
 ## Work
 - *2021.6 - 2022.12*: Intern at Shanghai AI Lab & SenseTime, worked on MOT and framework developments, mentored by [Dr. Min Wang](https://github.com/yinger650).
+- *2023.4 - now*: R&D Engineer at Momenta.
 
 ## Selected Publications
 **Rethinking Efficient Lane Detection via Curve Modeling** *CVPR 2022*
