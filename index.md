@@ -1,6 +1,6 @@
-I now work as an engineer at [Momenta](https://www.momenta.cn/), with the parking perception team. Before that, I got my master degree in computer science at Shanghai Jiao Tong University, supervised by [Prof. Lizhuang Ma](https://dmcv.sjtu.edu.cn/), worked on monocular lane detection, segmentation, and explored learning with limited human supervision. Currently, I'm focusing on deep learning applications in self-driving perception, and how to bring these technologies into real world ADAS solutions.
+I now work as an engineer at [Momenta](https://www.momenta.cn/), with the parking perception team. Before that, I got my master's degree in computer science at Shanghai Jiao Tong University, supervised by [Prof. Lizhuang Ma](https://dmcv.sjtu.edu.cn/), worked on monocular lane detection, segmentation, and explored learning with limited human supervision. Currently, I'm focusing on deep learning applications in self-driving perception, and how to bring these technologies into real-world solutions.
 
-As for my personal life, I'm a once renowned Go player (5 dan) and a video creator ([my studio](http://www.xianstudio.cn)). I also sincerely appreciate good stories, no matter told in books, films, TV series, or any other story telling methods.
+As for my personal life, I'm a once renowned Go player (5 dan) and a video creator ([my studio](http://www.xianstudio.cn)). I also sincerely appreciate good stories, no matter told in books, films, TV series, or any other story-telling methods.
 
 ## Education
 - *2013.9 - 2016.6*: Qingdao No.2 High School
