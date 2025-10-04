@@ -1,7 +1,5 @@
 I now work as an engineer at [Momenta](https://www.momenta.cn/), with the parking perception team. Before that, I got my master's degree in computer science at Shanghai Jiao Tong University, supervised by [Prof. Lizhuang Ma](https://dmcv.sjtu.edu.cn/), worked on monocular lane detection, segmentation, and explored learning with limited human supervision. Currently, I'm focusing on deep learning applications in self-driving perception, and how to bring these technologies into real-world solutions.
 
-As for my personal life, I'm a once renowned Go player (5 dan) and a video creator ([my studio](http://www.xianstudio.cn)). I also sincerely appreciate good stories, no matter told in books, films, TV series, or any other story-telling methods.
-
 ## Education
 - *2013.9 - 2016.6*: Qingdao No.2 High School
 - *2016.9 - 2020.6*: Harbin Institute of Technology, Weihai (*BEng in information security*)
@@ -38,9 +36,10 @@ Qiqi Gu, Qianyu Zhou, Minghao Xu, ***Zhengyang Feng***, Guangliang Cheng, Xuequa
 - Contributed code to [pytorch/vision](https://github.com/pytorch/vision), [OpenPerceptionX/OpenLane](https://github.com/OpenPerceptionX/OpenLane), [karstenBehrendt/unsupervised_llamas](https://github.com/karstenBehrendt/unsupervised_llamas).
 
 ## Academic Services
-- Reviewer for *TMM*, *TVC*, *Neurocomputing*, *ICME*, *ICONIP*, etc.
+- Reviewer for *ACMMM*, *TMM*, *TVC*, *Neurocomputing*, *ICME*, *ICONIP*, etc.
 
 ## Awards
 - 2nd place at 7th BMTT MOTChallenge (MOTSynth-MOT-CVPR22) 
 
 **Email:** zyfeng97@outlook.com
+
