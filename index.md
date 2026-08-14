@@ -1,4 +1,4 @@
-I now work as an engineer at [Momenta](https://www.momenta.cn/), with the parking perception team. Before that, I got my master's degree in computer science at Shanghai Jiao Tong University, supervised by [Prof. Lizhuang Ma](https://dmcv.sjtu.edu.cn/), worked on monocular lane detection, segmentation, and explored learning with limited human supervision. Currently, I'm focusing on deep learning applications in self-driving perception, and how to bring these technologies into real-world solutions.
+I now work as an engineer in the Robotics Lab at [Horizon Robotics](https://www.horizon.auto/), focusing on manipulation algorithms and improving their real-world applicability. Before that, I earned my master’s degree in computer science from Shanghai Jiao Tong University under the supervision of [Prof. Lizhuang Ma](https://dmcv.sjtu.edu.cn/). My research focused on monocular lane detection and segmentation, as well as learning with limited human supervision. I also worked on autonomous parking at [Momenta](https://www.momenta.cn/), contributing to the mass production of its APA software.
 
 ## Education
 - *2013.9 - 2016.6*: Qingdao No.2 High School
@@ -6,8 +6,9 @@ I now work as an engineer at [Momenta](https://www.momenta.cn/), with the parkin
 - *2020.9 - 2023.3*: Shanghai Jiao Tong University ***[DMCV Lab](http://dmcv.sjtu.edu.cn/)*** (*MSc in computer science*)
 
 ## Work
-- *2021.6 - 2022.12*: Intern at Shanghai AI Lab & SenseTime, worked on MOT and framework developments, mentored by [Dr. Min Wang](https://github.com/yinger650).
-- *2023.4 - now*: R&D Engineer at Momenta.
+- *2021.6 - 2022.12*: Shanghai AI Lab & SenseTime (Internship).
+- *2023.4 - 2026.8*: Momenta.
+- *2026.8 - now*: Horizon Robotics.
 
 ## Selected Publications
 **Rethinking Efficient Lane Detection via Curve Modeling** *CVPR 2022*
